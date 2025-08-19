@@ -1,5 +1,5 @@
 ## Oie, eu sou a Gabriela Soares! 👋
--Curso o 2°ano de Téc.informática, no IFCE-Campus Aracati.
+-Curso o 2°ano de Téc.informática no IFCE-Campus Aracati.
 -Estou estudando as linguagens C, JavaScript e Python.
 -E estou aprendendo desenvolvimento Back-end com GitHub. 
 
