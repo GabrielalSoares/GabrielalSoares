@@ -4,7 +4,7 @@
 -E estou aprendendo desenvolvimento Back-end com GitHub. 
 
 ## Principais Linguagens de Programação:💻
-[![Gabriela](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielalSoares)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriela](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielalSoares&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## Estatísticas do GitHub:📈
 ![Gabriela](https://github-readme-stats.vercel.app/api?username=GabrielalSoares&show_icons=true&theme=radical)
 <!--
